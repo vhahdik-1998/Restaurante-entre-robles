@@ -136,3 +136,20 @@
 .table{
     background-color: floralwhite;
 }
+
+.ingredientes {
+    
+    align-content: center;
+    align-items: center;
+    font-style:italic;
+    color: #000000;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    font-family: arial; color: rgb(0, 0, 0);
+   }
+
+.ingredientes table{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    align: center 
+}
